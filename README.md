@@ -1,4 +1,4 @@
-<h3 align="center">Student [Vaše Ime i Prezime] sa Unizd</h3>
+<h3 align="center">Student Dusko Vukmanovic sa Unizd</h3>
 
 - 🔭 Trenutno radim vježbe iz **pmipukrsr**
 
